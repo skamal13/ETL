@@ -11,7 +11,7 @@
 
 <!-- About The Mini Project-->
 ### About The Mini Project
-
+Collecting data HTML from id.wikipedia.org  and manipulating such an extracting fields data with Python, and then saving into PostgreSQL.
 
 
 ### Python libraries
