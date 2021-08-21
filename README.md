@@ -19,3 +19,6 @@ Collecting data HTML from id.wikipedia.org  and manipulating such an extracting 
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [urlopen](https://docs.python.org/3/library/urllib.request.html)
 * [psycopg2](https://pypi.org/project/psycopg2/)
+
+### More Informations
+* https://medium.com/@syamsulkamal574/etl-extract-transform-load-and-web-scraping-with-python-1c83962ebb05
